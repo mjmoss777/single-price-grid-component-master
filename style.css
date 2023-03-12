@@ -85,6 +85,11 @@ p {
     border-bottom-left-radius: 8px;
 }
 
+.col-sec h1 span {
+    color: var(--light-gray);
+    font-size: 14px;
+}
+
 .col-thr {
     background-color: var(--light-cyangreen);
     border-bottom-right-radius: 8px;
